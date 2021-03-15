@@ -1,0 +1,89 @@
+C:\Users\Сафура\Source\Repos\Billiards\Billiards\bin\Debug\Billiards.exe.config
+C:\Users\Сафура\Source\Repos\Billiards\Billiards\bin\Debug\Billiards.exe
+C:\Users\Сафура\Source\Repos\Billiards\Billiards\bin\Debug\Billiards.pdb
+C:\Users\Сафура\Source\Repos\Billiards\Billiards\obj\Debug\Billiards.csprojAssemblyReference.cache
+C:\Users\Сафура\Source\Repos\Billiards\Billiards\obj\Debug\Billiards.FormMenu.resources
+C:\Users\Сафура\Source\Repos\Billiards\Billiards\obj\Debug\Billiards.GameForm.resources
+C:\Users\Сафура\Source\Repos\Billiards\Billiards\obj\Debug\Billiards.Properties.Resources.resources
+C:\Users\Сафура\Source\Repos\Billiards\Billiards\obj\Debug\Billiards.csproj.GenerateResource.cache
+C:\Users\Сафура\Source\Repos\Billiards\Billiards\obj\Debug\Billiards.exe
+C:\Users\Сафура\Source\Repos\Billiards\Billiards\obj\Debug\Billiards.pdb
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\Billiards\bin\Debug\Billiards.exe.config
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\Billiards\bin\Debug\Billiards.exe
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\Billiards\bin\Debug\Billiards.pdb
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\Billiards\obj\Debug\Billiards.csprojAssemblyReference.cache
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\Billiards\obj\Debug\Billiards.FormMenu.resources
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\Billiards\obj\Debug\Billiards.GameForm.resources
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\Billiards\obj\Debug\Billiards.Properties.Resources.resources
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\Billiards\obj\Debug\Billiards.csproj.GenerateResource.cache
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\Billiards\obj\Debug\Billiards.exe
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\Billiards\obj\Debug\Billiards.pdb
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\Billiards\obj\Debug\Billiards.AboutProgram.resources
+D:\Downloads\Billiards\Billiards\bin\Debug\Billiards.exe.config
+D:\Downloads\Billiards\Billiards\bin\Debug\Billiards.exe
+D:\Downloads\Billiards\Billiards\bin\Debug\Billiards.pdb
+D:\Downloads\Billiards\Billiards\obj\Debug\Billiards.csprojAssemblyReference.cache
+D:\Downloads\Billiards\Billiards\obj\Debug\Billiards.AboutProgram.resources
+D:\Downloads\Billiards\Billiards\obj\Debug\Billiards.FormMenu.resources
+D:\Downloads\Billiards\Billiards\obj\Debug\Billiards.GameForm.resources
+D:\Downloads\Billiards\Billiards\obj\Debug\Billiards.Properties.Resources.resources
+D:\Downloads\Billiards\Billiards\obj\Debug\Billiards.csproj.GenerateResource.cache
+D:\Downloads\Billiards\Billiards\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+D:\Downloads\Billiards\Billiards\obj\Debug\Billiards.exe
+D:\Downloads\Billiards\Billiards\obj\Debug\Billiards.pdb
+C:\Users\Сафура\Desktop\Billiards — копия\Billiards\bin\Debug\Billiards.exe.config
+C:\Users\Сафура\Desktop\Billiards — копия\Billiards\bin\Debug\Billiards.exe
+C:\Users\Сафура\Desktop\Billiards — копия\Billiards\bin\Debug\Billiards.pdb
+C:\Users\Сафура\Desktop\Billiards — копия\Billiards\obj\Debug\Billiards.csprojAssemblyReference.cache
+C:\Users\Сафура\Desktop\Billiards — копия\Billiards\obj\Debug\Billiards.AboutProgram.resources
+C:\Users\Сафура\Desktop\Billiards — копия\Billiards\obj\Debug\Billiards.FormMenu.resources
+C:\Users\Сафура\Desktop\Billiards — копия\Billiards\obj\Debug\Billiards.GameForm.resources
+C:\Users\Сафура\Desktop\Billiards — копия\Billiards\obj\Debug\Billiards.Properties.Resources.resources
+C:\Users\Сафура\Desktop\Billiards — копия\Billiards\obj\Debug\Billiards.csproj.GenerateResource.cache
+C:\Users\Сафура\Desktop\Billiards — копия\Billiards\obj\Debug\Billiards.exe
+C:\Users\Сафура\Desktop\Billiards — копия\Billiards\obj\Debug\Billiards.pdb
+C:\Delme\Billiards\Billiards\bin\Debug\Billiards.exe.config
+C:\Delme\Billiards\Billiards\bin\Debug\Billiards.exe
+C:\Delme\Billiards\Billiards\bin\Debug\Billiards.pdb
+C:\Delme\Billiards\Billiards\obj\Debug\Billiards.csprojAssemblyReference.cache
+C:\Delme\Billiards\Billiards\obj\Debug\Billiards.AboutProgram.resources
+C:\Delme\Billiards\Billiards\obj\Debug\Billiards.FormMenu.resources
+C:\Delme\Billiards\Billiards\obj\Debug\Billiards.GameForm.resources
+C:\Delme\Billiards\Billiards\obj\Debug\Billiards.Properties.Resources.resources
+C:\Delme\Billiards\Billiards\obj\Debug\Billiards.csproj.GenerateResource.cache
+C:\Delme\Billiards\Billiards\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+C:\Delme\Billiards\Billiards\obj\Debug\Billiards.exe
+C:\Delme\Billiards\Billiards\obj\Debug\Billiards.pdb
+C:\Users\Сафура\Desktop\Billiards\bin\Debug\Billiards.exe.config
+C:\Users\Сафура\Desktop\Billiards\bin\Debug\Billiards.exe
+C:\Users\Сафура\Desktop\Billiards\bin\Debug\Billiards.pdb
+C:\Users\Сафура\Desktop\Billiards\obj\Debug\Billiards.csprojAssemblyReference.cache
+C:\Users\Сафура\Desktop\Billiards\obj\Debug\Billiards.AboutProgram.resources
+C:\Users\Сафура\Desktop\Billiards\obj\Debug\Billiards.FormMenu.resources
+C:\Users\Сафура\Desktop\Billiards\obj\Debug\Billiards.GameForm.resources
+C:\Users\Сафура\Desktop\Billiards\obj\Debug\Billiards.Properties.Resources.resources
+C:\Users\Сафура\Desktop\Billiards\obj\Debug\Billiards.csproj.GenerateResource.cache
+C:\Users\Сафура\Desktop\Billiards\obj\Debug\Billiards.exe
+C:\Users\Сафура\Desktop\Billiards\obj\Debug\Billiards.pdb
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\bin\Debug\Billiards.exe.config
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\bin\Debug\Billiards.exe
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\bin\Debug\Billiards.pdb
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\obj\Debug\Billiards.csprojAssemblyReference.cache
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\obj\Debug\Billiards.AboutProgram.resources
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\obj\Debug\Billiards.FormMenu.resources
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\obj\Debug\Billiards.GameForm.resources
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\obj\Debug\Billiards.Properties.Resources.resources
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\obj\Debug\Billiards.csproj.GenerateResource.cache
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\obj\Debug\Billiards.exe
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards\obj\Debug\Billiards.pdb
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards Game\Billiards\obj\Debug\Billiards.csprojAssemblyReference.cache
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards Game\Billiards\obj\Debug\Billiards.AboutProgram.resources
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards Game\Billiards\obj\Debug\Billiards.FormMenu.resources
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards Game\Billiards\obj\Debug\Billiards.GameForm.resources
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards Game\Billiards\obj\Debug\Billiards.Properties.Resources.resources
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards Game\Billiards\obj\Debug\Billiards.csproj.GenerateResource.cache
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards Game\Billiards\obj\Debug\Billiards.exe
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards Game\Billiards\obj\Debug\Billiards.pdb
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards Game\Billiards\bin\Debug\Billiards.exe.config
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards Game\Billiards\bin\Debug\Billiards.exe
+C:\Users\Сафура\Source\Repos\Курсовой проект\Billiards Game\Billiards\bin\Debug\Billiards.pdb
